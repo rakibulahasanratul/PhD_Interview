@@ -1,0 +1,13 @@
+1. Please be prepared to perform some basic python codes during the meeting just to confirm your programming skills. 
+   We could do it over Google Colab or your preferred environment. 
+2. Please prepare a two to three-page summary on my current research on ML-based detection of attacks on cyber-physical 
+   systems and provide suggestions on future works in the areas of ML, cybersecurity, and implementation on other 
+   cyber-physical systems. Please send it to me before the meeting. Here are the papers:
+
+	https://ieeexplore.ieee.org/abstract/document/9674027
+
+	https://ieeexplore.ieee.org/abstract/document/9841027
+
+	https://ieeexplore.ieee.org/abstract/document/10016905	
+
+	https://ieeexplore.ieee.org/abstract/document/10096822

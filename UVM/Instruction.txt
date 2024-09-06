@@ -1,0 +1,8 @@
+Here is the prompt: 
+
+1. Open the attached zip file. It contains a PyTorch Multi-Layer Perceptron model. Load the model into Python using "torch.load". Then, apply the model parameters (via "load_state_dict") to a NN with 10 sequential layers, of appropriate size, with ReLU activation function between each layer (no ReLU on the last layer).
+2. Tell us about the NN. Inputs/outputs/architecture/etc. What does it do?
+3. Assume all inputs can range from -10 to 10. What input sequence maximizes the linear sum of all outputs? What's the output?
+4. Assume the linear sum of all inputs can range from -10 to 10. What input sequence maximizes the linear sum of all outputs? What's the output?
+
+Questions 3 and 4 are hard – we are not necessarily looking for the right answer, but instead, how you went about solving the problems.
